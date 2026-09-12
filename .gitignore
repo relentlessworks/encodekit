@@ -1,0 +1,6 @@
+/encodekit
+encodekit-data.json
+*.exe
+*.dll
+*.so
+*.dylib
