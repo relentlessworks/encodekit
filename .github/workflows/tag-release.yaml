@@ -42,7 +42,7 @@ jobs:
         goarch: [amd64, arm64]
         exclude:
           - goos: windows
-              goarch: arm64
+            goarch: arm64
     steps:
       - uses: actions/checkout@v4
         with:
